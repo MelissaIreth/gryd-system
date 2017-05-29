@@ -25,3 +25,22 @@ header{
 	top: 40%;
 	left: 35%;
 }
+
+.fondo{
+	background-image: url(http://lorempixel.com/1024/600/food);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 30vh;
+	font-size: 300%;
+	text-align: center;
+	color: whitesmoke;
+}
+
+.boton{
+	background-color: gray;
+	color: whitesmoke;
+	padding: 2px;
+	float: right;
+}
+
