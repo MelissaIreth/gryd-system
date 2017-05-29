@@ -1,3 +1,20 @@
 .caja{
 	background-color: orange;
 }
+
+header{
+	text-align: center;
+}
+
+.back{
+	background-image: url(http://lorempixel.com/1024/600/cats);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.back .container{
+	background-color: rgba(255,255,255,0.5);
+	position: relative;
+}
